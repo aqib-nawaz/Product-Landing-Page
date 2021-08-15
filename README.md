@@ -1,5 +1,5 @@
 # Product-Landing-Page
-<p>This my 3rd Project for freeCodeCamp Course "Responsive Web Design".</p>
+<p>This is my 3rd Project for freeCodeCamp Course "Responsive Web Design".</p>
 <p>See the Project live here: <a href="https://aqib-nawaz.github.io/Product-Landing-Page">Product Landing Page</a></p> 
 
 <h2>Technology Used</h2>
