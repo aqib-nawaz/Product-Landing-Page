@@ -433,6 +433,11 @@ iframe {
 .contact-section {
   background-color: #fedfe1;
   padding: 40px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .contact-section form {
   display: flex;
@@ -440,6 +445,8 @@ iframe {
   justify-content: center;
   margin-top: 2.5rem;
   padding: 10px;
+  justify-content: center;
+  align-items: center;
 }
 .contact-section form .form-control {
   display: block;
